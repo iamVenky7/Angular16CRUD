@@ -7,8 +7,9 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import {MatToolbarModule} from '@angular/material/toolbar';
 import { MatIconModule } from '@angular/material/icon';
 import { MatSidenavModule } from '@angular/material/sidenav';
+import { PagenotfoundComponent } from './pagenotfound/pagenotfound.component';
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, PagenotfoundComponent],
   imports: [
     BrowserModule,
     AppRoutingModule,
