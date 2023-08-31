@@ -1,0 +1,82 @@
+{
+  "creditcards":[
+    {
+      "id": 1,
+      "cardname": "Bank of America - Platinum card",
+      "bankName": "Bank of America",
+      "description": "Bank of America offers customers with  variety of options",
+      "maxCredit": 8000,
+      "annualfee": 0,
+      "intrestrate": 13.5,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "28-08-2023",
+      "termsAndConditions": "The following conditions are applicable for this card"
+    },
+    {
+      "id": 2,
+      "cardname": "Bank of America - Platinum card",
+      "bankName": "Bank of America",
+      "description": "Bank of America offers customers with  variety of options",
+      "maxCredit": 8000,
+      "annualfee": 0,
+      "intrestrate": 13.5,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "28-08-2023",
+      "termsAndConditions": "The following conditions are applicable for this card"
+    },
+    {
+      "id": 3,
+      "cardname": "Bank of America - Platinum card",
+      "bankName": "Bank of America",
+      "description": "Bank of America offers customers with  variety of options",
+      "maxCredit": 8000,
+      "annualfee": 0,
+      "intrestrate": 13.5,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "28-08-2023",
+      "termsAndConditions": "The following conditions are applicable for this card"
+    },
+    {
+      "id": 4,
+      "cardname": "Bank of America - Platinum card",
+      "bankName": "Bank of America",
+      "description": "Bank of America offers customers with  variety of options",
+      "maxCredit": 8000,
+      "annualfee": 0,
+      "intrestrate": 13.5,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "28-08-2023",
+      "termsAndConditions": "The following conditions are applicable for this card"
+    },
+    {
+      "id": 5,
+      "cardname": "Bank of America - Platinum card",
+      "bankName": "Bank of America",
+      "description": "Bank of America offers customers with  variety of options",
+      "maxCredit": 8000,
+      "annualfee": 0,
+      "intrestrate": 13.5,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "28-08-2023",
+      "termsAndConditions": "The following conditions are applicable for this card"
+    },
+    {
+      "id": 6,
+      "cardname": "Bank of America - Platinum card",
+      "bankName": "Bank of America",
+      "description": "Bank of America offers customers with  variety of options",
+      "maxCredit": 8000,
+      "annualfee": 0,
+      "intrestrate": 13.5,
+      "recommendedCreditScore": "600-800",
+      "numberOfApplication": 40,
+      "createdDate": "28-08-2023",
+      "termsAndConditions": "The following conditions are applicable for this card"
+    }
+  ]
+}
